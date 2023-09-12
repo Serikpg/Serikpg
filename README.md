@@ -3,12 +3,11 @@
 This is my GitHub page. I hope you're having a nice **day**!
 
 - 🔭 I'm currently studying Computer Engineering at FIB UPC (*Facultat d'Informatica de Barcelona* - *Universitat Politècnica de Catalunya*)
-- 🌱 I'm currently learning and improving my skills in C++ and MIPS assembly
+- 🌱 I'm currently learning and improving my skills on Engineering :) lots of languages already
 - ⚡ I do love *...* 
   *music*
   *computers*
-  *games*
-  *trekking and running*
+  *trekking and bicicling*
 
 Please feel free to dive into my page...
 
